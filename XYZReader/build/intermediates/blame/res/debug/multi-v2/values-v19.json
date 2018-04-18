@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Make-Your-App-Material\\Make-Your-App-Material\\Make-Your-App-Material\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "E:\\Make-Your-App-Material\\Make-Your-App-Material\\Make-Your-App-Material\\XYZReader\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "265"
+                    }
+                }
+            ]
+        }
+    ]
+}
